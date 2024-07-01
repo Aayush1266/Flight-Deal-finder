@@ -1,0 +1,6 @@
+- Developed a Flight Deal Finder program using Python to identify and notify users of the best flight deals.
+- Implemented user registration functionality, collecting and storing user details such as name, phone number, and email.
+- Utilized the Tequila API to automatically search for the best flight prices from the user's set country to their desired destination.
+- Designed the program to notify users via email when a suitable flight deal is found.
+- Stored user data and preferences in an Excel sheet for easy access and management.
+- Ensured seamless integration and efficient performance to provide timely and accurate flight deal notifications.
